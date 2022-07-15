@@ -4,7 +4,7 @@
 Welcome to my GitHub. Here I want to record my path through codding.
 
 {Technologies I know}
-  Processing (Java framework)
+  Processing (Java framework),
   Arduino
   
 {Technologies I would like to learn}
