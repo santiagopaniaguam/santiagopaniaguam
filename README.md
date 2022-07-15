@@ -8,13 +8,13 @@ Welcome to my GitHub. Here I want to record my path through codding.
   Arduino
   
 {Technologies I would like to learn}
-  Javascript
-  Python
+  Javascript,
+  Python,
   C
   
 {Fields I'm intrested in}
-  Data and / or signals
-  Interactive Installations
+  Data and / or signals,
+  Interactive Installations,
   Multimedia
   
 
