@@ -10,7 +10,7 @@ Welcome to my GitHub. Here I want to record my path through codding.
 {Technologies I would like to learn}
   Javascript,
   Python,
-  C
+  C++
   
 {Fields I'm intrested in}
   Data and / or signals,
