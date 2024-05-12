@@ -1,21 +1,22 @@
 
-//////////////////// Hi ////////////////////
+---------------/ Hi /---------------
 
-Welcome to my GitHub. Here I want to record my path through codding.
+Welcome to my GitHub. Here I want to record my path through coding.
 
 {Technologies I know}
   Processing (Java framework),
   Arduino
   
-{Technologies I would like to learn}
-  Javascript,
+{Technologies I am learning}
   Python,
-  C++
+  C++,
+  Go
   
-{Fields I'm intrested in}
-  Data and / or signals,
+{Fields I am interested in}
+  Data and/or signals,
   Interactive Installations,
-  Multimedia
+  Multimedia,
+  Education
   
 
 
