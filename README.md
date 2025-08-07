@@ -5,7 +5,7 @@ Welcome to my GitHub. Here I want to record my path through coding learning.
   
 ## {Technologies I am learning}
   Python,
-  DOM,
+  Web,
   SQL
   
 ## {Fields I am interested in}
