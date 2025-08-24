@@ -1,7 +1,7 @@
 
 # HI
 
-Welcome to my GitHub. Here I want to record my path through coding learning.
+Welcome to my GitHub. I try to be a wholesome creator. Here I want to record my path through coding learning.
   
 ## {Technologies I am learning}
   Python,
